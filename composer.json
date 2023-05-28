@@ -1,0 +1,19 @@
+{
+    "name": "welpike/php-start",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Welpike\\PhpStart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Welpike",
+            "email": "welpike@protonmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "~1.8"
+    }
+}
